@@ -1,0 +1,7 @@
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\bin\Debug\SolidOne.exe.config
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\obj\Debug\SolidOne.csprojResolveAssemblyReference.cache
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\bin\Debug\SolidOne.exe
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\bin\Debug\SolidOne.pdb
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\bin\Debug\Newtonsoft.Json.dll
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\obj\Debug\SolidOne.exe
+C:\Users\screutz\Documents\Visual Studio 2013\Projects\SolidOne\SolidOne\obj\Debug\SolidOne.pdb
